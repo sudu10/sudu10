@@ -1,4 +1,4 @@
-# Hello, I'm D Sudarsanan!👋
+# Hello, I'm Sudarsanan!👋
 # 🧑🏻‍💻I'm currently working on
 <br>ML Pipelines: Building scalable machine learning systems with TensorFlow and PyTorch<br>Real-time Data Analytics: Developing streaming data solutions using Apache Kafka and Python<br>Advanced Analytics: Time series forecasting and anomaly detection<br>Cloud AI Services: AWS SageMaker, Azure ML, and serverless AI architectures<br>Cloud-Native AI Solutions: Deploying ML models on AWS with containerized architectures<br>
 # 🤝 I'm looking to collaborate on
